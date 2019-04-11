@@ -11,4 +11,7 @@ Go through /src/training.ipynb to train the SVHN classifier
 Go through /src/inference.ipynb to make inference with the saved model checkpoint
 
 # Prediction Results
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Screenshot](prediction1.PNG)
+![Screenshot](prediction2.PNG)
+![Screenshot](prediction3.PNG)
+![Screenshot](prediction4.PNG)
