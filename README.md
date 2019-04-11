@@ -5,8 +5,8 @@ This is an implementation of Google Street View House Numbers (SVHN) classifier 
 Go through /data/preprocessing.ipynb to download and convert the digitStruct.mat file in each dataset to a CSV file
 
 # Step 2
-Go through /training.ipynb to train the SVHN classifier
+Go through /src/training.ipynb to train the SVHN classifier
 
 # Step 2
-Go through /inference.ipynb to make inference with the saved model checkpoint
+Go through /src/inference.ipynb to make inference with the saved model checkpoint
 
